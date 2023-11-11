@@ -1,4 +1,4 @@
-# 😎 Awesome GPT Agents for Cybersecurity [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# 😎 Awesome GPTs (Agents) for Cybersecurity [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 <a href="https://github.com/fr0gger/Awesome-GPT-Agents">
     <img title="Star on GitHub" src="https://img.shields.io/github/stars/MarketingPipeline/Awesome-GPT-Agents.svg?style=social&label=Star">
   </a>
