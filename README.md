@@ -57,4 +57,8 @@ Want to add another cybersecurity agent. Create a pull request with the tool by 
 
 See also the list of [contributors](https://github.com/fr0gger/Awesome-GPT-Agents/graphs/contributors) who participate in this project.
 
+## ChatGPT Plus Subscription Requirement for using _GPTS_
+
+As of `Sat Nov 11 13:02:12 UTC 2023` a **ChatGPT Plus subsription** is required for using GPT's as mentioned in [this article](https://www.theverge.com/2023/11/6/23948957/openai-chatgpt-gpt-custom-developer-platform), the [official documentation](https://openai.com/blog/introducing-gpts) doesnt mention this anywhere.
+
 ### Thanks!
