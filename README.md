@@ -53,6 +53,7 @@ Please note, this repository is a community-driven project and may not list all 
 * [Pentester Interviewer](https://chat.openai.com/g/g-f86Jhxi7H-pentest-interviewer): I'm your interviewer for penetration testing, challenging your cybersecurity skills.
 * [CyberCrime Tracker](https://chat.openai.com/g/g-qbW4XNs80-cybercrime-tracker): Best Tools, Techniques and Tactics for Tracking Down Cyber Criminals.
 * [IOC Analyzer](https://chat.openai.com/g/g-oa6XeJDGW-ioc-analyzer): Precise IoC search and summary with source URLs for verification.
+* [VulnPrioritizer](https://chat.openai.com/g/g-oihYpG3oa-vuln-prioritizer): I fetch EPSS scores for CVEs and provide bullet-pointed prioritization summaries.
 
 ## Contributing <a href="https://github.com/fr0gger/Awesome-GPT-Agents/graphs/contributors"> ![GitHub](https://img.shields.io/github/contributors/MarketingPipeline/Awesome-Repo-Template) </a>
 
