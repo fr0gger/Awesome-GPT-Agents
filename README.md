@@ -16,7 +16,7 @@ Please note, this repository is a community-driven project and may not list all 
 
 ## Cybersecurity GPTs 
 
-* [MagicUnprotect](https://chat.openai.com/g/g-U5ZnmObzh-magicunprotect): This GPT allows to interact with the Unprotect DB to retrieve knowledge about malware evasion techniques
+* [MagicUnprotect](https://chat.openai.com/g/g-U5ZnmObzh-magicunprotect): This GPT allows to interact with the Unprotect DB to retrieve knowledge about malware evasion techniques.
 * [GP(en)T(ester)](https://chat.openai.com/g/g-zQfyABDUJ-gp-en-t-ester): A cybersec assistant for pentesting guidance. 
 * [Threat Intel Bot](https://chat.openai.com/g/g-Vy4rIqiCF-threat-intel-bot): A specialized GPT for the latest APT threat intelligence.
 * [SourceCodeAnalysis](https://chat.openai.com/g/g-K5Drw2YS9-sourcecodeanalysis-gpt): Upload any project's source code (zip format), analysis all, answer any questions to get what you want.
