@@ -51,6 +51,8 @@ Please note, this repository is a community-driven project and may not list all 
 * [WhichSAT](https://chat.openai.com/g/g-s1W0bUvGs-whichsat): Structured Analytic Techniques (SATs) used in intelligence analysis to aid in organizing and processing information.
 * [Cybersecurity Requirements Guide](https://chat.openai.com/g/g-OXhhZQzlV-cybersecurity-requirements-guide): I'll help you write cybersecurity requirements!
 * [Pentester Interviewer](https://chat.openai.com/g/g-f86Jhxi7H-pentest-interviewer): I'm your interviewer for penetration testing, challenging your cybersecurity skills.
+* [CyberCrime Tracker](https://chat.openai.com/g/g-qbW4XNs80-cybercrime-tracker): Best Tools, Techniques and Tactics for Tracking Down Cyber Criminals.
+* [IOC Analyzer](https://chat.openai.com/g/g-oa6XeJDGW-ioc-analyzer): Precise IoC search and summary with source URLs for verification.
 
 ## Contributing <a href="https://github.com/fr0gger/Awesome-GPT-Agents/graphs/contributors"> ![GitHub](https://img.shields.io/github/contributors/MarketingPipeline/Awesome-Repo-Template) </a>
 
