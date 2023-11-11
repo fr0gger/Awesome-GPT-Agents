@@ -47,6 +47,7 @@ Please note, this repository is a community-driven project and may not list all 
 * [Data Analysis](https://chat.openai.com/g/g-HMNcP6w7d-data-analysis): Drop in any files and I can help analyze and visualize your data.
 * [SpamGuard Tutor](https://chat.openai.com/g/g-jhc6RyFfY-spamguard-tutor): Spam detection expert and educator on spam prevention.
 * [Threat Modelling](https://chat.openai.com/g/g-3XPyoWzn3-threat-modelling): A GPT expert in conducting thorough threat modelling for system design and review.
+* [Threat Modeling Companion](https://chat.openai.com/g/g-qQceHnV7T-threat-modeling-companion): I am a threat modeling expert that can help you identify threats for any system that you provide.
 * [Squidshing](https://chat.openai.com/g/g-8JrlEnLEj-squidshing): Analyzes emails for phishing risks.
 * [GetPaths](https://chat.openai.com/g/g-6Bcjkotez-getpaths): This GPT takes in content related to an application, such as HTTP traffic, JavaScript files, source code, etc., and outputs lists of URLs that can be used for further testing.
 * [WhichSAT](https://chat.openai.com/g/g-s1W0bUvGs-whichsat): Structured Analytic Techniques (SATs) used in intelligence analysis to aid in organizing and processing information.
