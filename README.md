@@ -6,7 +6,7 @@
     <img title="Fork on GitHub" src="https://img.shields.io/github/forks/fr0gger/Awesome-GPT-Agents">
   </a>
   
-The "Awesome GPT Agent Repo" represents an initial effort to compile a comprehensive list of GPT agents focused on cybersecurity (offensive and defensive), created by the community. 
+The "Awesome GPTs (Agents) Repo" represents an initial effort to compile a comprehensive list of GPT agents focused on cybersecurity (offensive and defensive), created by the community. 
 
 Please note, this repository is a community-driven project and may not list all existing GPT agents in cybersecurity. Contributions are welcome – feel free to add your own creations!
 
@@ -14,7 +14,7 @@ Please note, this repository is a community-driven project and may not list all 
 
 🌟 If you enjoy this content, consider following me: [@fr0gger_](https://x.com/fr0gger_) 
 
-## GPT Agents
+## Cybersecurity GPTs 
 
 * [MagicUnprotect](https://chat.openai.com/g/g-U5ZnmObzh-magicunprotect): This GPT allows to interact with the Unprotect DB to retrieve knowledge about malware evasion techniques
 * [GP(en)T(ester)](https://chat.openai.com/g/g-zQfyABDUJ-gp-en-t-ester): A cybersec assistant for pentesting guidance. 
