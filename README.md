@@ -1,9 +1,9 @@
 # 😎 Awesome GPT Agents for Cybersecurity [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 <a href="https://github.com/fr0gger/Awesome-GPT-Agents">
-    <img title="Star on GitHub" src="https://img.shields.io/github/stars/MarketingPipeline/Awesome-Repo-Template.svg?style=social&label=Star">
+    <img title="Star on GitHub" src="https://img.shields.io/github/stars/MarketingPipeline/Awesome-GPT-Agents.svg?style=social&label=Star">
   </a>
   <a href="https://github.com/fr0gger/Awesome-GPT-Agents/fork">
-    <img title="Fork on GitHub" src="https://img.shields.io/github/forks/MarketingPipeline/Awesome-Repo-Template.svg?style=social&label=Fork">
+    <img title="Fork on GitHub" src="https://img.shields.io/github/forks/MarketingPipeline/Awesome-GPT-Agents.svg?style=social&label=Fork">
   </a>
   
 The "Awesome GPT Agent Repo" represents an initial effort to compile a comprehensive list of GPT agents focused on cybersecurity (offensive and defensive), created by the community. 
