@@ -46,6 +46,6 @@ Please note, this repository is a community-driven project and may not list all 
 
 Want to add another cybersecurity agent. Create a pull request with the tool by following the list above. 
 
-See also the list of[contributors](https://github.com/fr0gger/Awesome-GPT-Agents/graphs/contributors) who participate in this project.
+See also the list of [contributors](https://github.com/fr0gger/Awesome-GPT-Agents/graphs/contributors) who participate in this project.
 
 ## Thanks!
