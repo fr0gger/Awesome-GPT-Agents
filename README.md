@@ -10,7 +10,7 @@ The "Awesome GPT Agent Repo" represents an initial effort to compile a comprehen
 
 Please note, this repository is a community-driven project and may not list all existing GPT agents in cybersecurity. Contributions are welcome – feel free to add your own creations!
 
-**Disclaimer: Users should exercise caution and evaluate the agents before use**
+**Disclaimer: Users should exercise caution and evaluate the agents before use.**
 
 🌟 If you enjoy this content, consider following me: [@fr0gger_](https://x.com/fr0gger_) 
 
