@@ -47,6 +47,7 @@ Please note, this repository is a community-driven project and may not list all 
 * [SpamGuard Tutor](https://chat.openai.com/g/g-jhc6RyFfY-spamguard-tutor): Spam detection expert and educator on spam prevention.
 * [Threat Modelling](https://chat.openai.com/g/g-3XPyoWzn3-threat-modelling): A GPT expert in conducting thorough threat modelling for system design and review.
 * [Squidshing](https://chat.openai.com/g/g-8JrlEnLEj-squidshing): Analyzes emails for phishing risks.
+* [GetPaths](https://chat.openai.com/g/g-6Bcjkotez-getpaths): This GPT takes in content related to an application, such as HTTP traffic, JavaScript files, source code, etc., and outputs lists of URLs that can be used for further testing.
 
 ## Contributing <a href="https://github.com/fr0gger/Awesome-GPT-Agents/graphs/contributors"> ![GitHub](https://img.shields.io/github/contributors/MarketingPipeline/Awesome-Repo-Template) </a>
 
