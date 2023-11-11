@@ -24,6 +24,7 @@ Please note, this repository is a community-driven project and may not list all 
 * [CyberGPT](https://chat.openai.com/g/g-GGqU669bx-cybergpt): It provides the latest CVE details.
 * [Cyber Mentor](https://chat.openai.com/g/g-9PmeCxa4O-cyber-mentor): Cybersecurity mentor teaching from the basics to advanced.
 * [CyberGuard](https://chat.openai.com/g/g-Rqg4CFv6o-cyber-guard): Cybersecurity advisor for home and small businesses. Ask any question or let cyber guard.
+* [CatEye](https://chat.openai.com/g/g-Oi3WJaHdu-cateye): AI Cybersecurity Best Practices Advisor. An agent for C-Level executives concerned about their startup's security. 
 * [SOC Copilot](https://chat.openai.com/g/g-qvSadylbt-soc-copilot): Cybersecurity expert with keyword-based guidance.
 * [HackTricksGPT](https://chat.openai.com/g/g-aaNx59p4q-hacktricksgpt): A knowledgeable cybersecurity professional.
 * [Cyber Security Tutor](https://chat.openai.com/g/g-0VZwWuTzR-cyber-security-tutor): Quality Cyber Security Advice, Tricks, & Tips
