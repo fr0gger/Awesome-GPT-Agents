@@ -1,6 +1,6 @@
-# 😎 Awesome GPTs (Agents) for Cybersecurity [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Static Badge](https://img.shields.io/badge/Awesome-GPT-Agents)
+# 😎 Awesome GPTs (Agents) for Cybersecurity [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 <a href="https://github.com/fr0gger/Awesome-GPT-Agents">
-    <img title="Star on GitHub" src="https://img.shields.io/github/stars/MarketingPipeline/Awesome-GPT-Agents.svg?style=social&label=Star">
+    <img title="Star on GitHub" src="https://img.shields.io/github/stars/fr0gger/Awesome-GPT-Agents">
   </a>
   <a href="https://github.com/fr0gger/Awesome-GPT-Agents/fork">
     <img title="Fork on GitHub" src="https://img.shields.io/github/forks/MarketingPipeline/Awesome-GPT-Agents.svg?style=social&label=Fork">
