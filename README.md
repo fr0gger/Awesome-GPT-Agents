@@ -50,6 +50,7 @@ Please note, this repository is a community-driven project and may not list all 
 * [GetPaths](https://chat.openai.com/g/g-6Bcjkotez-getpaths): This GPT takes in content related to an application, such as HTTP traffic, JavaScript files, source code, etc., and outputs lists of URLs that can be used for further testing.
 * [WhichSAT](https://chat.openai.com/g/g-s1W0bUvGs-whichsat): Structured Analytic Techniques (SATs) used in intelligence analysis to aid in organizing and processing information.
 * [Cybersecurity Requirements Guide](https://chat.openai.com/g/g-OXhhZQzlV-cybersecurity-requirements-guide): I'll help you write cybersecurity requirements!
+* [Pentester Interviewer](https://chat.openai.com/g/g-f86Jhxi7H-pentest-interviewer): I'm your interviewer for penetration testing, challenging your cybersecurity skills.
 
 ## Contributing <a href="https://github.com/fr0gger/Awesome-GPT-Agents/graphs/contributors"> ![GitHub](https://img.shields.io/github/contributors/MarketingPipeline/Awesome-Repo-Template) </a>
 
