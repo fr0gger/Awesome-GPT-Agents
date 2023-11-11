@@ -41,6 +41,11 @@ Please note, this repository is a community-driven project and may not list all 
 * [WP secure guide](https://chat.openai.com/g/g-CsvahsYRC-wp-secure-guide): Offers guidance on WordPress security best practices.
 * [Privacy Guardian AI](https://chat.openai.com/g/g-gtV76JzWV-privacy-guardian-ai): Expert in guiding GPT creation with a focus on privacy and security.
 * [Message Header Analyzer](https://chat.openai.com/g/g-IHl1UiMr6-message-header-analyzer): Analyzes email headers for security insights, presenting data in a structured table view.
+* [zkGPT](https://chat.openai.com/g/g-UKY6elM2U-zkgpt): Explains and teaches zero-knowledge cryptography.
+* [Malware Rule Master](https://chat.openai.com/g/g-NGsw2zTeW-malware-rule-master): Expert in malware analysis and Yara rules, using web sources for specifics.
+* [Data Analysis](https://chat.openai.com/g/g-HMNcP6w7d-data-analysis): Drop in any files and I can help analyze and visualize your data.
+* [SpamGuard Tutor](https://chat.openai.com/g/g-jhc6RyFfY-spamguard-tutor): Spam detection expert and educator on spam prevention.
+* [Threat Modelling](https://chat.openai.com/g/g-3XPyoWzn3-threat-modelling): A GPT expert in conducting thorough threat modelling for system design and review.
 
 ## Contributing <a href="https://github.com/fr0gger/Awesome-GPT-Agents/graphs/contributors"> ![GitHub](https://img.shields.io/github/contributors/MarketingPipeline/Awesome-Repo-Template) </a>
 
