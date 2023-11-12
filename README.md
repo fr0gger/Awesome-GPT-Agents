@@ -67,6 +67,7 @@ There is some specific keywords that triggers some actions from GPTS, here are s
 * [CISO AI](https://chat.openai.com/g/g-76iz872HL-ciso-ai): A team of cyber security experts providing comprehensive advice on all security aspects.
 * [AI Cyberwar](https://chat.openai.com/g/g-5gRtXufX5-ai-cyberwar): AI and cyber warfare expert, advising on policy, conflict, and technical trends.
 * [CMMC GPT](https://chat.openai.com/g/g-aauXdJQ31-cmmc-gpt): BLUF-focused CMMC 2.0 expert.
+* [Cyber AI Assistant](https://chat.openai.com/g/g-xF21ot8u6-cyber-ai-assistant): This gpt is designed to provide comprehensive assistance in cyber security.
 
 ## Contributing <a href="https://github.com/fr0gger/Awesome-GPT-Agents/graphs/contributors"> ![GitHub](https://img.shields.io/github/contributors/MarketingPipeline/Awesome-Repo-Template) </a>
 
