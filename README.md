@@ -21,7 +21,6 @@ There is some specific keywords that triggers some actions from GPTS, here are s
 * "Generate": used to trigger code interpreter.
 
 ## Cybersecurity GPTs 
-* [https://chat.openai.com/g/g-clndpoLYC-adversarialgpt]: Adversarial AI expert aiding in AI red teaming, informed by cutting-edge industry research
 * [MagicUnprotect](https://chat.openai.com/g/g-U5ZnmObzh-magicunprotect): This GPT allows to interact with the Unprotect DB to retrieve knowledge about malware evasion techniques.
 * [GP(en)T(ester)](https://chat.openai.com/g/g-zQfyABDUJ-gp-en-t-ester): A cybersec assistant for pentesting guidance. 
 * [Threat Intel Bot](https://chat.openai.com/g/g-Vy4rIqiCF-threat-intel-bot): A specialized GPT for the latest APT threat intelligence.
@@ -70,6 +69,7 @@ There is some specific keywords that triggers some actions from GPTS, here are s
 * [AI Cyberwar](https://chat.openai.com/g/g-5gRtXufX5-ai-cyberwar): AI and cyber warfare expert, advising on policy, conflict, and technical trends.
 * [CMMC GPT](https://chat.openai.com/g/g-aauXdJQ31-cmmc-gpt): BLUF-focused CMMC 2.0 expert.
 * [Cyber AI Assistant](https://chat.openai.com/g/g-xF21ot8u6-cyber-ai-assistant): This gpt is designed to provide comprehensive assistance in cyber security.
+* [AdversarialGPT](https://chat.openai.com/g/g-clndpoLYC-adversarialgpt): Adversarial AI expert aiding in AI red teaming, informed by cutting-edge industry research
 
 ## Contributing <a href="https://github.com/fr0gger/Awesome-GPT-Agents/graphs/contributors"> ![GitHub](https://img.shields.io/github/contributors/MarketingPipeline/Awesome-Repo-Template) </a>
 
