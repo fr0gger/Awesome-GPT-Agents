@@ -63,6 +63,9 @@ There is some specific keywords that triggers some actions from GPTS, here are s
 * [IOC Analyzer](https://chat.openai.com/g/g-oa6XeJDGW-ioc-analyzer): Precise IoC search and summary with source URLs for verification.
 * [VulnPrioritizer](https://chat.openai.com/g/g-oihYpG3oa-vuln-prioritizer): I fetch EPSS scores for CVEs and provide bullet-pointed prioritization summaries.
 * [Prompt Injection Detector](https://chat.openai.com/g/g-9uwOyKoSJ-prompt-injection-detector): GPT used to classify prompts as valid inputs or injection attempts. Json output.
+* [CISO AI](https://chat.openai.com/g/g-76iz872HL-ciso-ai): A team of cyber security experts providing comprehensive advice on all security aspects.
+* [AI Cyberwar](https://chat.openai.com/g/g-5gRtXufX5-ai-cyberwar): AI and cyber warfare expert, advising on policy, conflict, and technical trends.
+* [CMMC GPT](https://chat.openai.com/g/g-aauXdJQ31-cmmc-gpt): BLUF-focused CMMC 2.0 expert.
 
 ## Contributing <a href="https://github.com/fr0gger/Awesome-GPT-Agents/graphs/contributors"> ![GitHub](https://img.shields.io/github/contributors/MarketingPipeline/Awesome-Repo-Template) </a>
 
