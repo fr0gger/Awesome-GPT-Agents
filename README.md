@@ -73,7 +73,6 @@ There is some specific keywords that triggers some actions from GPTS, here are s
 * [AppSec Test Crafter](https://chat.openai.com/g/g-59IVzvEoB-appsec-test-crafter): Creates Application Security Test cases in YAML.
 * [SecurityRecipesGPT](https://chat.openai.com/g/g-ho7ID5goz-securityrecipesgpt): Quick cybersecurity solutions, serving up easy-to-understand advice and protective strategies.
 * [LLM Top10 GPT](https://chat.openai.com/g/g-J8ENU2pPQ-llm-top10-gpt): Expert on LLM security risks, providing detailed, accurate advice.
-* 
 
 ## Contributing <a href="https://github.com/fr0gger/Awesome-GPT-Agents/graphs/contributors"> ![GitHub](https://img.shields.io/github/contributors/MarketingPipeline/Awesome-Repo-Template) </a>
 
