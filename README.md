@@ -27,6 +27,7 @@ There is some specific keywords that triggers some actions from GPTS, here are s
 * [Threat Intel Bot](https://chat.openai.com/g/g-Vy4rIqiCF-threat-intel-bot): A specialized GPT for the latest APT threat intelligence.
 * [SourceCodeAnalysis](https://chat.openai.com/g/g-K5Drw2YS9-sourcecodeanalysis-gpt): Upload any project's source code (zip format), analysis all, answer any questions to get what you want.
 * [Web Hacking Wizard](https://chat.openai.com/g/g-Op6Btk7ev-web-hacking-wizard): Engagingly clarifies web security topics with interactive questions.
+* [ChadGPT](https://chat.openai.com/g/g-hBDutiLmw-chadgpt): Has useful executibles in /mnt/data such as gdb, curl, strace. Make PRs at [ChadGPT git](https://github.com/chadbrewbaker/ChadGPT).
 * [CyberGPT](https://chat.openai.com/g/g-GGqU669bx-cybergpt): It provides the latest CVE details.
 * [Cyber Mentor](https://chat.openai.com/g/g-9PmeCxa4O-cyber-mentor): Cybersecurity mentor teaching from the basics to advanced.
 * [Cyber Security Career Mentor](https://chat.openai.com/g/g-b69I3zwKd-cyber-security-career-mentor): Your guide to starting and advancing in cybersecurity careers, offering beginner-friendly, practical advice.
