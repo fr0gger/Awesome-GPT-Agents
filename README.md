@@ -70,6 +70,7 @@ There is some specific keywords that triggers some actions from GPTS, here are s
 * [CMMC GPT](https://chat.openai.com/g/g-aauXdJQ31-cmmc-gpt): BLUF-focused CMMC 2.0 expert.
 * [Cyber AI Assistant](https://chat.openai.com/g/g-xF21ot8u6-cyber-ai-assistant): This gpt is designed to provide comprehensive assistance in cyber security.
 * [AdversarialGPT](https://chat.openai.com/g/g-clndpoLYC-adversarialgpt): Adversarial AI expert aiding in AI red teaming, informed by cutting-edge industry research
+* [AppSec Test Crafter](https://chat.openai.com/g/g-59IVzvEoB-appsec-test-crafter): Creates Application Security Test cases in YAML.
 
 ## Contributing <a href="https://github.com/fr0gger/Awesome-GPT-Agents/graphs/contributors"> ![GitHub](https://img.shields.io/github/contributors/MarketingPipeline/Awesome-Repo-Template) </a>
 
