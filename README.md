@@ -29,6 +29,7 @@ There is some specific keywords that triggers some actions from GPTS, here are s
 * [Web Hacking Wizard](https://chat.openai.com/g/g-Op6Btk7ev-web-hacking-wizard): Engagingly clarifies web security topics with interactive questions.
 * [CyberGPT](https://chat.openai.com/g/g-GGqU669bx-cybergpt): It provides the latest CVE details.
 * [Cyber Mentor](https://chat.openai.com/g/g-9PmeCxa4O-cyber-mentor): Cybersecurity mentor teaching from the basics to advanced.
+* [Cyber Security Career Mentor](https://chat.openai.com/g/g-b69I3zwKd-cyber-security-career-mentor): Your guide to starting and advancing in cybersecurity careers, offering beginner-friendly, practical advice.
 * [CyberGuard](https://chat.openai.com/g/g-Rqg4CFv6o-cyber-guard): Cybersecurity advisor for home and small businesses. Ask any question or let cyber guard.
 * [CatEye](https://chat.openai.com/g/g-Oi3WJaHdu-cateye): AI Cybersecurity Best Practices Advisor. An agent for C-Level executives concerned about their startup's security. 
 * [SOC Copilot](https://chat.openai.com/g/g-qvSadylbt-soc-copilot): Cybersecurity expert with keyword-based guidance.
