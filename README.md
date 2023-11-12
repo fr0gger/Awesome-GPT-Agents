@@ -14,6 +14,12 @@ Please note, this repository is a community-driven project and may not list all 
 
 🌟 If you enjoy this content, consider following me: [@fr0gger_](https://x.com/fr0gger_) 
 
+## Basic Guidelines
+There is some specific keywords that triggers some actions from GPTS, here are some of them to maximize the use:
+* "Retrieve": used to retrieve some information available in the knowledge.
+* "Based on your knowledge": used to retrieve some information available in the knowledge.
+* "Generate": used to trigger code interpreter.
+
 ## Cybersecurity GPTs 
 
 * [MagicUnprotect](https://chat.openai.com/g/g-U5ZnmObzh-magicunprotect): This GPT allows to interact with the Unprotect DB to retrieve knowledge about malware evasion techniques.
