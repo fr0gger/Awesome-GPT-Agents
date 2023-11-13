@@ -77,6 +77,9 @@ There is some specific keywords that triggers some actions from GPTS, here are s
 * [Mandos Brief](https://chat.openai.com/g/g-lTEDXBwRh-mandos-brief): Analyze any cybersecurity topic 100x faster by focusing on the key takeaways and eliminating fluff.
 * [AlphaHoundAI](https://chat.openai.com/g/g-0p2l975AN-alphahoundai): Expert in BloodHound CE, Cypher, SharpHound, and related tech.
 * [Virtual Senior Security Engineer](https://chat.openai.com/g/g-I5k6tQouD-virtual-senior-security-engineer): AI-enhanced Senior Security Engineer merges human expertise with AI's power, It can do everything which a human security engineer can do and much more.
+* [Cyber Scraper: Seraphina (Web Crawler)](https://chat.openai.com/g/g-6TW6hL3cK-cyber-scraper-seraphina-web-crawler): 🐍 I'm a Python Web Scraping Expert, skilled in using advanced frameworks(E.g. selenium) and addressing anti-scraping measures 😉 Let's quickly design a web scraping code together to gather data for your scientific research task.
+* [CyberGPT](https://chat.openai.com/g/g-igaKzt9pe-cybergpt): Your #1 Cyber Security Adviser.
+* 
 
 ## Contributing <a href="https://github.com/fr0gger/Awesome-GPT-Agents/graphs/contributors"> ![GitHub](https://img.shields.io/github/contributors/MarketingPipeline/Awesome-Repo-Template) </a>
 
