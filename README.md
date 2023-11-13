@@ -80,6 +80,10 @@ There is some specific keywords that triggers some actions from GPTS, here are s
 * [Cyber Scraper: Seraphina (Web Crawler)](https://chat.openai.com/g/g-6TW6hL3cK-cyber-scraper-seraphina-web-crawler): 🐍 I'm a Python Web Scraping Expert, skilled in using advanced frameworks(E.g. selenium) and addressing anti-scraping measures 😉 Let's quickly design a web scraping code together to gather data for your scientific research task.
 * [CyberGPT](https://chat.openai.com/g/g-igaKzt9pe-cybergpt): Your #1 Cyber Security Adviser.
 * [Cylect.io, the Ultimate AI OSINT Tool](https://chat.openai.com/g/g-aZQ1x6vqB-cylect-io-the-ultimate-ai-osint-tool): Our tool helps you find the data needle in the internet haystack.
+* [Cyber Sentinel](https://chat.openai.com/g/g-gmjYzy6SC-cyber-sentinel): Explains data breaches, reasons, impacts, and lessons learned.
+* [SimpliSec](https://chat.openai.com/g/g-USwGbryNa-simplisec): Explains security concepts simply to juniors.
+* [Security Advisor](https://chat.openai.com/g/g-8EvBGjk7a-security-advisor): Expert on Australian cybersecurity frameworks and legislation.
+* [Threat Modeler](https://chat.openai.com/g/g-6tfw636sF-threat-modeler): Comprehensive threat modeling.
 
 ## Contributing <a href="https://github.com/fr0gger/Awesome-GPT-Agents/graphs/contributors"> ![GitHub](https://img.shields.io/github/contributors/MarketingPipeline/Awesome-Repo-Template) </a>
 
