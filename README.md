@@ -75,6 +75,7 @@ There is some specific keywords that triggers some actions from GPTS, here are s
 * [LLM Top10 GPT](https://chat.openai.com/g/g-J8ENU2pPQ-llm-top10-gpt): Expert on LLM security risks, providing detailed, accurate advice.
 * [GPT H4x0r](https://chat.openai.com/g/g-QrtVX4w0Z-gpt-h4x0r): Expert in hacking and programming queries on LLM V 1.0.
 * [Mandos Brief](https://chat.openai.com/g/g-lTEDXBwRh-mandos-brief): Analyze any cybersecurity topic 100x faster by focusing on the key takeaways and eliminating fluff.
+* [AlphaHoundAI](https://chat.openai.com/g/g-0p2l975AN-alphahoundai): Expert in BloodHound CE, Cypher, SharpHound, and related tech.
 
 ## Contributing <a href="https://github.com/fr0gger/Awesome-GPT-Agents/graphs/contributors"> ![GitHub](https://img.shields.io/github/contributors/MarketingPipeline/Awesome-Repo-Template) </a>
 
