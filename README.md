@@ -77,6 +77,7 @@ There is some specific keywords that triggers some actions from GPTS, here are s
 * [Mandos Brief](https://chat.openai.com/g/g-lTEDXBwRh-mandos-brief): Analyze any cybersecurity topic 100x faster by focusing on the key takeaways and eliminating fluff.
 * [AlphaHoundAI](https://chat.openai.com/g/g-0p2l975AN-alphahoundai): Expert in BloodHound CE, Cypher, SharpHound, and related tech.
 * [Virtual Senior Security Engineer](https://chat.openai.com/g/g-I5k6tQouD-virtual-senior-security-engineer): AI-enhanced Senior Security Engineer merges human expertise with AI's power, It can do everything which a human security engineer can do and much more.
+* [Cylect.io, the Ultimate AI OSINT Tool](https://chat.openai.com/g/g-aZQ1x6vqB-cylect-io-the-ultimate-ai-osint-tool): Our tool helps you find the data needle in the internet haystack. Automatic OSINT Tool Agreggator.
 
 ## Contributing <a href="https://github.com/fr0gger/Awesome-GPT-Agents/graphs/contributors"> ![GitHub](https://img.shields.io/github/contributors/MarketingPipeline/Awesome-Repo-Template) </a>
 
