@@ -41,7 +41,7 @@ There is some specific keywords that triggers some actions from GPTS, here are s
 * [Hacker Art](https://chat.openai.com/g/g-LjmHKgJZO-hacker-art-by-rez0): Generate badass hacker art and profile pics.
 * [Smart Contract Audit Assistant](https://chat.openai.com/g/g-R4dNsj0fm-smart-contract-audit-assistant-by-keybox-ai): Get your Ethereum and L2 EVMs smart contracts audited updated knowledge base of vulnerabilities and exploits.
 * [CVEs](https://chat.openai.com/g/g-HQaKYlJhk-cves): Look up Common Vulnerabilities and Exposures (CVEs).
-* [IAC Code Guardian](https://chat.openai.com/g/g-nT849ZvCx-iac-code-guardian): Introducing IAC Code Guardian- Your Trusted IaC Security Expert in Scanning Opentofu, Terrform, AWS Cloudformation, Pulumi, K8s Yaml & Dockerfile.
+* [IAC Code Guardian](https://chat.openai.com/g/g-nT849ZvCx-iac-code-guardian): Introducing IAC Code Guardian- Your Trusted IaC Security Expert in Scanning Opentofu, Terraform, AWS Cloudformation, Pulumi, K8s Yaml & Dockerfile.
 * [Smart Contract Auditor](https://chat.openai.com/g/g-VRtUR3Jpv-smart-contract-auditor): High-accuracy smart contract audit tool.
 * [Pentest reporter](https://chat.openai.com/g/g-dtkGX8MrO-pentest-reporter): Assists in writing detailed security report.
 * [h4ckGPT](https://chat.openai.com/g/g-1ehIO0APO-h4ckgpt): Your personal security tool… Happy h4cking!
