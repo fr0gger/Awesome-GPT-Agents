@@ -85,6 +85,7 @@ There is some specific keywords that triggers some actions from GPTS, here are s
 * [Security Advisor](https://chat.openai.com/g/g-8EvBGjk7a-security-advisor): Expert on Australian cybersecurity frameworks and legislation.
 * [Threat Modeler](https://chat.openai.com/g/g-6tfw636sF-threat-modeler): Comprehensive threat modeling.
 * [Code Securely](https://chat.openai.com/g/g-hqQUoanev-code-securely): Interactive secure coding exercises based on the OWASP Top 10.
+* [AppSec Test Crafter](https://chat.openai.com/g/g-59IVzvEoB-appsec-test-crafter): Generates Application security related test cases specific to you code in YAML format
 
 ## Contributing <a href="https://github.com/fr0gger/Awesome-GPT-Agents/graphs/contributors"> ![GitHub](https://img.shields.io/github/contributors/MarketingPipeline/Awesome-Repo-Template) </a>
 
