@@ -85,6 +85,7 @@ There is some specific keywords that triggers some actions from GPTS, here are s
 * [Security Advisor](https://chat.openai.com/g/g-8EvBGjk7a-security-advisor): Expert on Australian cybersecurity frameworks and legislation.
 * [Threat Modeler](https://chat.openai.com/g/g-6tfw636sF-threat-modeler): Comprehensive threat modeling.
 * [Threat Model Buddy](https://chat.openai.com/g/g-0VFpp6BB7-threat-model-buddy): From architecture to Threat Model assistant PASTA methodology
+* [Code Securely](https://chat.openai.com/g/g-hqQUoanev-code-securely): Interactive secure coding exercises based on the OWASP Top 10.
 
 ## Contributing <a href="https://github.com/fr0gger/Awesome-GPT-Agents/graphs/contributors"> ![GitHub](https://img.shields.io/github/contributors/MarketingPipeline/Awesome-Repo-Template) </a>
 
