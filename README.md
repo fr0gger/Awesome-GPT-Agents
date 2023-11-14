@@ -89,6 +89,7 @@ There is some specific keywords that triggers some actions from GPTS, here are s
 * [Betterscan.io AI Code Analyzer](https://chat.openai.com/g/g-PpK3taEVb-betterscan-io-ai-code-analyzer): Chat about your code and cloud snippets (IaC) & code (ABAP, APEX, C, C++, C#, Docker, Flex, GO, Java, Javascript, Kotlin, Kubernetes, Objective-C, PHP, PL SQL, Python, Ruby, Scala, Terraform, TSQL, VB6, VB.NET etc)
 * [Watson](https://chat.openai.com/g/g-c3LVkBDE9-watson): Provides threat-related info as BLUF (Bottom Line Up Front).
 * [RansomChatGPT](https://chat.openai.com/g/g-qVOZwAoqH-ransomchatgpt): Ransomware Negotiation Simulation bot trained from data [here](https://github.com/Casualtek/Ransomchats).
+* [TheDFIRReport Assistant](https://chat.openai.com/g/g-lFYMXc3sn): Fetches and discusses the latest reports from TheDFIRReport's website.
 
 ## Contributing <a href="https://github.com/fr0gger/Awesome-GPT-Agents/graphs/contributors"> ![GitHub](https://img.shields.io/github/contributors/MarketingPipeline/Awesome-Repo-Template) </a>
 
