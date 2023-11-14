@@ -97,6 +97,7 @@ There is some specific keywords that triggers some actions from GPTS, here are s
 * [Red Team Guides](https://chat.openai.com/g/g-eQlfHmSH5-red-team-guide): Red Team Recipe and Guide for Fun & Profit.
 * [Blue Team Guides](https://chat.openai.com/g/g-GP9M4UScu-blue-team-guide): It is a meticulously crafted arsenal of knowledge, insights, and guidelines that is shaped to empower organizations in crafting, enhancing, and refining their cybersecurity defenses.
 * [DevSecOps Guides](https://chat.openai.com/g/g-SAOYn4UCp-devsecops-guides): Comprehensive resource for integrating security into the software development lifecycle.
+* [ask_ida/plugins](https://chat.openai.com/g/g-eKf2Iz4XO-ask-ida-plugins): Ask me to recommend a plugin from the official Hex-Rays plugin repository.
 
 ## Contributing <a href="https://github.com/fr0gger/Awesome-GPT-Agents/graphs/contributors"> ![GitHub](https://img.shields.io/github/contributors/MarketingPipeline/Awesome-Repo-Template) </a>
 
