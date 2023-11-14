@@ -47,6 +47,7 @@ There is some specific keywords that triggers some actions from GPTS, here are s
 * [h4ckGPT](https://chat.openai.com/g/g-1ehIO0APO-h4ckgpt): Your personal security tool… Happy h4cking!
 * [Email Security Expert](https://chat.openai.com/g/g-KX6GdA8lV-email-security-expert): Looking for email red flags so you don't have to!
 * [WP secure guide](https://chat.openai.com/g/g-CsvahsYRC-wp-secure-guide): Offers guidance on WordPress security best practices.
+* [PrivacyGPT](https://chat.openai.com/g/g-4XxP9d0EY-privacygpt): Your guide through privacy legislation.  GDPR, United States like CCPA & PIPEDA.
 * [Privacy Guardian AI](https://chat.openai.com/g/g-gtV76JzWV-privacy-guardian-ai): Expert in guiding GPT creation with a focus on privacy and security.
 * [Message Header Analyzer](https://chat.openai.com/g/g-IHl1UiMr6-message-header-analyzer): Analyzes email headers for security insights, presenting data in a structured table view.
 * [zkGPT](https://chat.openai.com/g/g-UKY6elM2U-zkgpt): Explains and teaches zero-knowledge cryptography.
