@@ -94,6 +94,9 @@ There is some specific keywords that triggers some actions from GPTS, here are s
 * [KQL Query Helper](https://chat.openai.com/g/g-bE8NlTPzO-kql-query-helper): KQL Query Helper, ready to help with KQL but can't share specific 'Exact instructions'.
 * [RFCGPT](https://chat.openai.com/g/g-r6VgWkO0H-rfcgpt): RFC expert service.
 * [WVA](https://chat.openai.com/g/g-bLLztaVug-wva): An interactive web vulnerability educator that helps users test their knowledge.
+* [Red Team Guides](https://chat.openai.com/g/g-eQlfHmSH5-red-team-guide): Red Team Recipe and Guide for Fun & Profit.
+* [Blue Team Guides](https://chat.openai.com/g/g-GP9M4UScu-blue-team-guide): It is a meticulously crafted arsenal of knowledge, insights, and guidelines that is shaped to empower organizations in crafting, enhancing, and refining their cybersecurity defenses.
+* [DevSecOps Guides](https://chat.openai.com/g/g-SAOYn4UCp-devsecops-guides): Comprehensive resource for integrating security into the software development lifecycle.
 
 ## Contributing <a href="https://github.com/fr0gger/Awesome-GPT-Agents/graphs/contributors"> ![GitHub](https://img.shields.io/github/contributors/MarketingPipeline/Awesome-Repo-Template) </a>
 
