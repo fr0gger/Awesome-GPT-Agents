@@ -107,6 +107,7 @@ There is some specific keywords that triggers some actions from GPTS, here are s
 * [impacketGPT](https://chat.openai.com/g/g-8Ax6NRrAb-impacketgpt): This custom GPT allows developers/users of the [impacket library](https://github.com/fortra/impacket) to obtain explanations about protocols implementation and example scripts that are useful for development and documentation.
 * [OSISTent](https://chat.openai.com/g/g-Ep6YFTwsn-osistent): Assistant GPT for OSINT challenges and research
 * [API Guardian](https://chat.openai.com/g/g-WnhIae9dc-api-guardian): Helps security engineers learn more about testing and securing APIs. Trained from data by [Escape](https://github.com/Escape-Technologies).
+* [Basic Security Helper](https://chat.openai.com/g/g-Fqif55uJj-basic-cyber-security-helper): Cybersecurity assistant for personal safety tips and setups.
 
 ## Contributing <a href="https://github.com/fr0gger/Awesome-GPT-Agents/graphs/contributors"> ![GitHub](https://img.shields.io/github/contributors/MarketingPipeline/Awesome-Repo-Template) </a>
 
