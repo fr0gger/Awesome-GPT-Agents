@@ -102,6 +102,7 @@ There is some specific keywords that triggers some actions from GPTS, here are s
 * [Threat Intel Brief](https://chat.openai.com/g/g-8K32VQvgD-threat-intel-briefs): Delivers daily, sector-specific cybersecurity threat intel briefs with source citations.
 * [ask_ida/c++](https://chat.openai.com/g/g-VgbIr9TQQ-ask-ida-c): IDA Pro and Decompiler SDK C++ Coding Assistant (pre-alpha).
 * [Geopolitic Explainer](https://chat.openai.com/g/g-NlzTxUEsP-geopolitic-explainer): Insightful, up-to-date geopolitical analysis and historical context.
+* [Bug Insider](https://chat.openai.com/g/g-ZuYsv3B7u-bug-insider): Analyzes bug bounty writeups and cybersecurity reports, providing structured insights and tips.
 
 ## Contributing <a href="https://github.com/fr0gger/Awesome-GPT-Agents/graphs/contributors"> ![GitHub](https://img.shields.io/github/contributors/MarketingPipeline/Awesome-Repo-Template) </a>
 
