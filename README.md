@@ -104,6 +104,7 @@ There is some specific keywords that triggers some actions from GPTS, here are s
 * [Geopolitic Explainer](https://chat.openai.com/g/g-NlzTxUEsP-geopolitic-explainer): Insightful, up-to-date geopolitical analysis and historical context.
 * [Bug Insider](https://chat.openai.com/g/g-ZuYsv3B7u-bug-insider): Analyzes bug bounty writeups and cybersecurity reports, providing structured insights and tips.
 * [Cyber Charli](https://chat.openai.com/g/g-lHnIOPevO-cyber-charli): Educating kids and parents about cybersecurity in a fun way!
+* [OSISTent](https://chat.openai.com/g/g-Ep6YFTwsn-osistent): Assistant GPT for OSINT challenges and research
 
 ## Contributing <a href="https://github.com/fr0gger/Awesome-GPT-Agents/graphs/contributors"> ![GitHub](https://img.shields.io/github/contributors/MarketingPipeline/Awesome-Repo-Template) </a>
 
