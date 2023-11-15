@@ -20,7 +20,7 @@ There is some specific keywords that triggers some actions from GPTS, here are s
 * "Based on your knowledge": used to retrieve some information available in the knowledge.
 * "Generate": used to trigger code interpreter.
 
-## Cybersecurity GPTs 
+## Cybersecurity GPTs
 * [MagicUnprotect](https://chat.openai.com/g/g-U5ZnmObzh-magicunprotect): This GPT allows to interact with the Unprotect DB to retrieve knowledge about malware evasion techniques.
 * [GP(en)T(ester)](https://chat.openai.com/g/g-zQfyABDUJ-gp-en-t-ester): A cybersec assistant for pentesting guidance. 
 * [Threat Intel Bot](https://chat.openai.com/g/g-Vy4rIqiCF-threat-intel-bot): A specialized GPT for the latest APT threat intelligence.
@@ -54,6 +54,7 @@ There is some specific keywords that triggers some actions from GPTS, here are s
 * [Malware Rule Master](https://chat.openai.com/g/g-NGsw2zTeW-malware-rule-master): Expert in malware analysis and Yara rules, using web sources for specifics.
 * [Data Analysis](https://chat.openai.com/g/g-HMNcP6w7d-data-analysis): Drop in any files and I can help analyze and visualize your data.
 * [SpamGuard Tutor](https://chat.openai.com/g/g-jhc6RyFfY-spamguard-tutor): Spam detection expert and educator on spam prevention.
+* [Cloud-native threat modeling](https://sei.so/threat-modeling): Talk to an expert AI and find the cybersecurity threats that your company should be thinking about, and what to do about them.
 * [Threat Modelling](https://chat.openai.com/g/g-3XPyoWzn3-threat-modelling): A GPT expert in conducting thorough threat modelling for system design and review.
 * [Threat Modeling Companion](https://chat.openai.com/g/g-qQceHnV7T-threat-modeling-companion): I am a threat modeling expert that can help you identify threats for any system that you provide.
 * [Threat Model Companion](https://chat.openai.com/g/g-8AM8fQ9wU-threat-model-companion): Assists in identifying and mitigating security threats.
