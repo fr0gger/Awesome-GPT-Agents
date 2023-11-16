@@ -139,6 +139,10 @@ There is some specific keywords that triggers some actions from GPTS, here are s
 * [OT Security Buddy GPT](https://chat.openai.com/g/g-yhzcRZ3zu-ot-security-buddy-gpt): Your buddy to take expert advise on OT Security Topics.
 * [Secure Password Generator](https://chat.openai.com/g/g-Qhpc6FXJN-secure-password-generator): Creates secure, varied passwords and offers security tips.
 * [Secure Code Assistant](https://chat.openai.com/g/g-k0PTOme1H-secure-code-assistant): I offer tested, secure coding solutions with no patience-testing.
+* [Securia](https://chat.openai.com/g/g-AeBEMaUjW-securia): AI-powered audit ally. Enhance cybersecurity effortlessly with intelligent, automated security analysis. Safe, swift, and smart.
+* [DevSecOps Guides](https://chat.openai.com/g/g-SAOYn4UCp-devsecops-guides): Comprehensive resource for integrating security into the software development lifecycle.
+* [Repo Ranger](https://chat.openai.com/g/g-f9z2KitCh-repo-ranger): Your go-to sheriff for web-based code insights and security checks.
+* 
 
 ## Contributing <a href="https://github.com/fr0gger/Awesome-GPT-Agents/graphs/contributors"> ![GitHub](https://img.shields.io/github/contributors/fr0gger/Awesome-GPT-Agents) </a>
 
