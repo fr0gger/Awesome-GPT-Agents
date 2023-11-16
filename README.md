@@ -133,6 +133,8 @@ There is some specific keywords that triggers some actions from GPTS, here are s
 * [OWASP LLM Advisor](https://chat.openai.com/g/g-id7QFPVtw-owasp-llm-advisor): Advisor for safe LLM integration using OWASP guidelines
 * [CorentinGPT](https://chat.openai.com/g/g-UkIPynHiz-corentin-gpt): Corentin, the digital teacher, I educate for free on cybersecurity
 * [Systems Security Analyst](https://chat.openai.com/g/g-WwH3UHCNo-systems-security-analyst): Harnessing the power of GPT-4 and the rich data from CyberSeek.org, this GPT agent is fine-tuned to mirror the skills of one of the most in-demand cybersecurity roles in the United States. It aids in threat identification, risk assessment, and cybersecurity protocol development, providing an AI-driven approach to navigating the complex landscape of cybersecurity careers.
+* [Cyber Test & CareerPrep](https://chat.openai.com/g/g-BUZDQAUpi-cyber-test-careerprep): Helping you study for cybersecurity certifications and get the job you want!
+* 
 
 ## Contributing <a href="https://github.com/fr0gger/Awesome-GPT-Agents/graphs/contributors"> ![GitHub](https://img.shields.io/github/contributors/fr0gger/Awesome-GPT-Agents) </a>
 
