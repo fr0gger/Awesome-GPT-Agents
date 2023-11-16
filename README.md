@@ -142,6 +142,7 @@ There is some specific keywords that triggers some actions from GPTS, here are s
 * [Securia](https://chat.openai.com/g/g-AeBEMaUjW-securia): AI-powered audit ally. Enhance cybersecurity effortlessly with intelligent, automated security analysis. Safe, swift, and smart.
 * [DevSecOps Guides](https://chat.openai.com/g/g-SAOYn4UCp-devsecops-guides): Comprehensive resource for integrating security into the software development lifecycle.
 * [Repo Ranger](https://chat.openai.com/g/g-f9z2KitCh-repo-ranger): Your go-to sheriff for web-based code insights and security checks.
+* [Wifi Assistant](https://chat.openai.com/g/g-bKKDHY7QN-wifi-assistant): Is your Wi-Fi properly set-up to be Secure, Fast and Reliable?
 * 
 
 ## Contributing <a href="https://github.com/fr0gger/Awesome-GPT-Agents/graphs/contributors"> ![GitHub](https://img.shields.io/github/contributors/fr0gger/Awesome-GPT-Agents) </a>
