@@ -120,7 +120,14 @@ There is some specific keywords that triggers some actions from GPTS, here are s
 * [Amelia: Cybersecurity Analyst](https://chat.openai.com/g/g-12V1yLgzC-amelia-cybersecurity-analyst): Hi, I'm Amelia, a GPT-powered Cybersecurity Analyst. Specializing in threat identification, risk assessment, and security protocol development, I excel in fortifying networks and systems against cyber threats. Let's collaborate to safeguard your digital assets and maintain robust security postures.
 * [NVD - CVE Research Assistant](https://chat.openai.com/g/g-eNewYWSCa-nvd-cve-research-assistant): Expert in CVEs and cybersecurity vulnerabilities, providing precise information from the National Vulnerability Database.
 * [AI Cybersecurity Guardian](https://chat.openai.com/g/g-TUXwyEhMw-ai-cybersecurity-guardian): A cybersecurity expert offering advice on digital safety and protocols.
-* [](): 
+* [CyberSecurity Researcher](https://chat.openai.com/g/g-EGZEajNbq-cybersecurity-researcher): A bot that provides detailed cybersecurity threat intelligence.
+* [The Privacy Protector](https://chat.openai.com/g/g-XQF1DX247-the-privacy-protector): Your AI guide for digital privacy and security. Simplifies cybersecurity, offers tips, and helps protect your digital footprint.
+* [Risk Guardian](https://chat.openai.com/g/g-UNM5tgBsR-risk-guardian):Incorporates NIST SP 800-53A guidelines for compliance with federal cybersecurity standards.
+* [Defender for Endpoint Guardian]([https://chat.openai.com/g/g-i9McRi7M9-cyber-sentinel](https://chat.openai.com/g/g-TcwOdeMii-defender-for-endpoint-guardian)): To assist individuals seeking to learn about or work with Microsoft's Defender for Endpoint. I provide detailed explanations, step-by-step guides, troubleshooting advice, cybersecurity best practices, and demonstrations, all specifically tailored to Microsoft Defender for Endpoint.
+* [Cybersecurity Requirements Guide](https://chat.openai.com/g/g-OXhhZQzlV-cybersecurity-requirements-guide): I'll help you write cybersecurity requirements!
+* [Strobes Intel AI](https://chat.openai.com/g/g-SA7xjxkGP-strobes-intel): A cybersecurity gpt that can talk about latest CVEs, exploits and more.
+* [Bug Bounty Assistant](https://chat.openai.com/g/g-hnDH58fct-bug-bounty-assistant): Conversational guide on web app security, you can provide request/responses. GPT will try to spot vulnerabilities.
+* 
 
 ## Contributing <a href="https://github.com/fr0gger/Awesome-GPT-Agents/graphs/contributors"> ![GitHub](https://img.shields.io/github/contributors/MarketingPipeline/Awesome-Repo-Template) </a>
 
