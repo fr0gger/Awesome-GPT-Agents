@@ -19,6 +19,8 @@ There is some specific keywords that triggers some actions from GPTS, here are s
 * "Retrieve": used to retrieve some information available in the knowledge.
 * "Based on your knowledge": used to retrieve some information available in the knowledge.
 * "Generate": used to trigger code interpreter.
+* Can you provide information on [specific topic] from the knowledge source?: To trigger the retrieval.
+* What does the knowledge source say about [specific query]? To trigger the retrieval.
 
 ## Cybersecurity GPTs
 * [MagicUnprotect](https://chat.openai.com/g/g-U5ZnmObzh-magicunprotect): This GPT allows to interact with the Unprotect DB to retrieve knowledge about malware evasion techniques.
