@@ -131,7 +131,7 @@ There is some specific keywords that triggers some actions from GPTS, here are s
 * [OWASP LLM Advisor](https://chat.openai.com/g/g-id7QFPVtw-owasp-llm-advisor): Advisor for safe LLM integration using OWASP guidelines
 
 
-## Contributing <a href="https://github.com/fr0gger/Awesome-GPT-Agents/graphs/contributors"> ![GitHub](https://img.shields.io/github/contributors/MarketingPipeline/Awesome-Repo-Template) </a>
+## Contributing <a href="https://github.com/fr0gger/Awesome-GPT-Agents/graphs/contributors"> ![GitHub](https://img.shields.io/github/contributors/fr0gger/Awesome-GPT-Agents) </a>
 
 Want to add another cybersecurity agent. Create a pull request with the tool by following the list above. 
 
