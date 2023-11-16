@@ -108,6 +108,12 @@ There is some specific keywords that triggers some actions from GPTS, here are s
 * [OSISTent](https://chat.openai.com/g/g-Ep6YFTwsn-osistent): Assistant GPT for OSINT challenges and research
 * [API Guardian](https://chat.openai.com/g/g-WnhIae9dc-api-guardian): Helps security engineers learn more about testing and securing APIs. Trained from data by [Escape](https://github.com/Escape-Technologies).
 * [Basic Security Helper](https://chat.openai.com/g/g-Fqif55uJj-basic-cyber-security-helper): Cybersecurity assistant for personal safety tips and setups.
+* [Cyber Threat Intelligence](https://chat.openai.com/g/g-LLgFl7GtW-cyber-threat-intelligence): AI APT Threat Intelligence Expert: Trained on MITRE ATT&CK and related frameworks and tools and configured by a career intelligence professional to automate what can be automated in cyber threat intelligence.
+* [HAckingPT](https://chat.openai.com/g/g-5VHfn5v5y-hackingpt): HackingPT is a specialized language model with expertise in cybersecurity and penetration testing. It is dedicated to providing technically precise and accurate responses, emphasizing detailed and knowledgeable insights in these fields.
+* [Prompt Injection Maker](https://chat.openai.com/g/g-v8DghLbiu-prompt-injection-maker): AI for prompt hacking and AI safety education.
+* [Techno Guardian v1.3](https://chat.openai.com/g/g-jepNHsK3m-techno-guardian): Your Defensive and Offensive Cybersecurity Mentor.
+* [HACKIT Security Researcher](https://chat.openai.com/g/g-aIXyhEw7Q-hackit-security-researcher): I help you understand what malicious code attackers use to attack and hack.
+* [Malware Analyst](https://chat.openai.com/g/g-UsiBwOXNA-malware-analyst): Disassembler and debugger with CyberChef-like capabilities.
 
 ## Contributing <a href="https://github.com/fr0gger/Awesome-GPT-Agents/graphs/contributors"> ![GitHub](https://img.shields.io/github/contributors/MarketingPipeline/Awesome-Repo-Template) </a>
 
