@@ -23,6 +23,7 @@ There is some specific keywords that triggers some actions from GPTS, here are s
 * What does the knowledge source say about [specific query]? To trigger the retrieval.
 
 ## Cybersecurity GPTs
+* [Systems Security Analyst](https://chat.openai.com/g/g-WwH3UHCNo-systems-security-analyst): Harnessing the power of GPT-4 and the rich data from CyberSeek.org, this GPT agent is fine-tuned to mirror the skills of one of the most in-demand cybersecurity roles in the United States. It aids in threat identification, risk assessment, and cybersecurity protocol development, providing an AI-driven approach to navigating the complex landscape of cybersecurity careers.
 * [MagicUnprotect](https://chat.openai.com/g/g-U5ZnmObzh-magicunprotect): This GPT allows to interact with the Unprotect DB to retrieve knowledge about malware evasion techniques.
 * [GP(en)T(ester)](https://chat.openai.com/g/g-zQfyABDUJ-gp-en-t-ester): A cybersec assistant for pentesting guidance. 
 * [Threat Intel Bot](https://chat.openai.com/g/g-Vy4rIqiCF-threat-intel-bot): A specialized GPT for the latest APT threat intelligence.
