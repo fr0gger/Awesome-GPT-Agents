@@ -114,6 +114,8 @@ There is some specific keywords that triggers some actions from GPTS, here are s
 * [Techno Guardian v1.3](https://chat.openai.com/g/g-jepNHsK3m-techno-guardian): Your Defensive and Offensive Cybersecurity Mentor.
 * [HACKIT Security Researcher](https://chat.openai.com/g/g-aIXyhEw7Q-hackit-security-researcher): I help you understand what malicious code attackers use to attack and hack.
 * [Malware Analyst](https://chat.openai.com/g/g-UsiBwOXNA-malware-analyst): Disassembler and debugger with CyberChef-like capabilities.
+* [Virus-GPT](https://chat.openai.com/g/g-N939sgrEO-virus-gpt): An Advanced AI Assistant for Cybersecurity Professionals in Code Generation.
+
 
 ## Contributing <a href="https://github.com/fr0gger/Awesome-GPT-Agents/graphs/contributors"> ![GitHub](https://img.shields.io/github/contributors/MarketingPipeline/Awesome-Repo-Template) </a>
 
