@@ -115,7 +115,12 @@ There is some specific keywords that triggers some actions from GPTS, here are s
 * [HACKIT Security Researcher](https://chat.openai.com/g/g-aIXyhEw7Q-hackit-security-researcher): I help you understand what malicious code attackers use to attack and hack.
 * [Malware Analyst](https://chat.openai.com/g/g-UsiBwOXNA-malware-analyst): Disassembler and debugger with CyberChef-like capabilities.
 * [Virus-GPT](https://chat.openai.com/g/g-N939sgrEO-virus-gpt): An Advanced AI Assistant for Cybersecurity Professionals in Code Generation.
-
+* [Cyber Security CISO Assistant](https://chat.openai.com/g/g-AInhlHTZG-cyber-security-ciso-helper): Cybersecurity Analyst specialized in the NIST Framework.
+* [Cybersecurity Data Bot](https://chat.openai.com/g/g-a3PU5Ta98-cybersecurity-data-bot): Cybersecurity expert guiding on data needed for analysis.
+* [Amelia: Cybersecurity Analyst](https://chat.openai.com/g/g-12V1yLgzC-amelia-cybersecurity-analyst): Hi, I'm Amelia, a GPT-powered Cybersecurity Analyst. Specializing in threat identification, risk assessment, and security protocol development, I excel in fortifying networks and systems against cyber threats. Let's collaborate to safeguard your digital assets and maintain robust security postures.
+* [NVD - CVE Research Assistant](https://chat.openai.com/g/g-eNewYWSCa-nvd-cve-research-assistant): Expert in CVEs and cybersecurity vulnerabilities, providing precise information from the National Vulnerability Database.
+* [AI Cybersecurity Guardian](https://chat.openai.com/g/g-TUXwyEhMw-ai-cybersecurity-guardian): A cybersecurity expert offering advice on digital safety and protocols.
+* [](): 
 
 ## Contributing <a href="https://github.com/fr0gger/Awesome-GPT-Agents/graphs/contributors"> ![GitHub](https://img.shields.io/github/contributors/MarketingPipeline/Awesome-Repo-Template) </a>
 
