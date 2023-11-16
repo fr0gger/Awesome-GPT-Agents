@@ -127,7 +127,9 @@ There is some specific keywords that triggers some actions from GPTS, here are s
 * [Cybersecurity Requirements Guide](https://chat.openai.com/g/g-OXhhZQzlV-cybersecurity-requirements-guide): I'll help you write cybersecurity requirements!
 * [Strobes Intel AI](https://chat.openai.com/g/g-SA7xjxkGP-strobes-intel): A cybersecurity gpt that can talk about latest CVEs, exploits and more.
 * [Bug Bounty Assistant](https://chat.openai.com/g/g-hnDH58fct-bug-bounty-assistant): Conversational guide on web app security, you can provide request/responses. GPT will try to spot vulnerabilities.
-* 
+* [Zero Day Tools](https://chat.openai.com/g/g-sml6o5ef8-zero-day-tools): Specially formatted indices of Google's ZeroDay Project Data as well as the OWASP AppSec CheatSheet; explore the datasets, snag the code, and fine-tune or index yourself via ZeroDay.Tools.
+* [OWASP LLM Advisor](https://chat.openai.com/g/g-id7QFPVtw-owasp-llm-advisor): Advisor for safe LLM integration using OWASP guidelines
+
 
 ## Contributing <a href="https://github.com/fr0gger/Awesome-GPT-Agents/graphs/contributors"> ![GitHub](https://img.shields.io/github/contributors/MarketingPipeline/Awesome-Repo-Template) </a>
 
