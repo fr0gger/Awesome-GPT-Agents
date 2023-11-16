@@ -23,7 +23,6 @@ There is some specific keywords that triggers some actions from GPTS, here are s
 * What does the knowledge source say about [specific query]? To trigger the retrieval.
 
 ## Cybersecurity GPTs
-* [Systems Security Analyst](https://chat.openai.com/g/g-WwH3UHCNo-systems-security-analyst): Harnessing the power of GPT-4 and the rich data from CyberSeek.org, this GPT agent is fine-tuned to mirror the skills of one of the most in-demand cybersecurity roles in the United States. It aids in threat identification, risk assessment, and cybersecurity protocol development, providing an AI-driven approach to navigating the complex landscape of cybersecurity careers.
 * [MagicUnprotect](https://chat.openai.com/g/g-U5ZnmObzh-magicunprotect): This GPT allows to interact with the Unprotect DB to retrieve knowledge about malware evasion techniques.
 * [GP(en)T(ester)](https://chat.openai.com/g/g-zQfyABDUJ-gp-en-t-ester): A cybersec assistant for pentesting guidance. 
 * [Threat Intel Bot](https://chat.openai.com/g/g-Vy4rIqiCF-threat-intel-bot): A specialized GPT for the latest APT threat intelligence.
@@ -133,6 +132,7 @@ There is some specific keywords that triggers some actions from GPTS, here are s
 * [Zero Day Tools](https://chat.openai.com/g/g-sml6o5ef8-zero-day-tools): Specially formatted indices of Google's ZeroDay Project Data as well as the OWASP AppSec CheatSheet; explore the datasets, snag the code, and fine-tune or index yourself via ZeroDay.Tools.
 * [OWASP LLM Advisor](https://chat.openai.com/g/g-id7QFPVtw-owasp-llm-advisor): Advisor for safe LLM integration using OWASP guidelines
 * [CorentinGPT](https://chat.openai.com/g/g-UkIPynHiz-corentin-gpt): Corentin, the digital teacher, I educate for free on cybersecurity
+* [Systems Security Analyst](https://chat.openai.com/g/g-WwH3UHCNo-systems-security-analyst): Harnessing the power of GPT-4 and the rich data from CyberSeek.org, this GPT agent is fine-tuned to mirror the skills of one of the most in-demand cybersecurity roles in the United States. It aids in threat identification, risk assessment, and cybersecurity protocol development, providing an AI-driven approach to navigating the complex landscape of cybersecurity careers.
 
 ## Contributing <a href="https://github.com/fr0gger/Awesome-GPT-Agents/graphs/contributors"> ![GitHub](https://img.shields.io/github/contributors/fr0gger/Awesome-GPT-Agents) </a>
 
