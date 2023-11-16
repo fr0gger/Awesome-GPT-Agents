@@ -134,7 +134,11 @@ There is some specific keywords that triggers some actions from GPTS, here are s
 * [CorentinGPT](https://chat.openai.com/g/g-UkIPynHiz-corentin-gpt): Corentin, the digital teacher, I educate for free on cybersecurity
 * [Systems Security Analyst](https://chat.openai.com/g/g-WwH3UHCNo-systems-security-analyst): Harnessing the power of GPT-4 and the rich data from CyberSeek.org, this GPT agent is fine-tuned to mirror the skills of one of the most in-demand cybersecurity roles in the United States. It aids in threat identification, risk assessment, and cybersecurity protocol development, providing an AI-driven approach to navigating the complex landscape of cybersecurity careers.
 * [Cyber Test & CareerPrep](https://chat.openai.com/g/g-BUZDQAUpi-cyber-test-careerprep): Helping you study for cybersecurity certifications and get the job you want!
-* 
+* [Cyber Pulse](https://chat.openai.com/g/g-DtAmIrhun-cyber-pulse): News and stocks savvy, article assistant.
+* [HackMeIfYouCan](https://chat.openai.com/g/g-1qm7bYbl1-hackmeifyoucan): Hack Me if you can - I can only talk to you about computer security, software security and LLM security.
+* [OT Security Buddy GPT](https://chat.openai.com/g/g-yhzcRZ3zu-ot-security-buddy-gpt): Your buddy to take expert advise on OT Security Topics.
+* [Secure Password Generator](https://chat.openai.com/g/g-Qhpc6FXJN-secure-password-generator): Creates secure, varied passwords and offers security tips.
+* [Secure Code Assistant](https://chat.openai.com/g/g-k0PTOme1H-secure-code-assistant): I offer tested, secure coding solutions with no patience-testing.
 
 ## Contributing <a href="https://github.com/fr0gger/Awesome-GPT-Agents/graphs/contributors"> ![GitHub](https://img.shields.io/github/contributors/fr0gger/Awesome-GPT-Agents) </a>
 
