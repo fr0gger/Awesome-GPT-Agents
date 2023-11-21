@@ -101,8 +101,9 @@ There is some specific keywords that triggers some actions from GPTS, here are s
 * [Blue Team Guides](https://chat.openai.com/g/g-GP9M4UScu-blue-team-guide): It is a meticulously crafted arsenal of knowledge, insights, and guidelines that is shaped to empower organizations in crafting, enhancing, and refining their cybersecurity defenses.
 * [DevSecOps Guides](https://chat.openai.com/g/g-SAOYn4UCp-devsecops-guides): Comprehensive resource for integrating security into the software development lifecycle.
 * [ask_ida/plugins](https://chat.openai.com/g/g-eKf2Iz4XO-ask-ida-plugins): Ask me to recommend a plugin from the official Hex-Rays plugin repository.
+* [ask_ida/c++](https://chat.openai.com/g/g-VgbIr9TQQ-ask-ida-c): IDA Pro and Decompiler SDK C++ Coding Assistant.
+* [ask_ida/IDAPython](https://chat.openai.com/g/g-QohtN580d-ask-ida-python): IDAPython coding assistant for IDA Pro and Decompiler.
 * [Threat Intel Brief](https://chat.openai.com/g/g-8K32VQvgD-threat-intel-briefs): Delivers daily, sector-specific cybersecurity threat intel briefs with source citations.
-* [ask_ida/c++](https://chat.openai.com/g/g-VgbIr9TQQ-ask-ida-c): IDA Pro and Decompiler SDK C++ Coding Assistant (pre-alpha).
 * [Geopolitic Explainer](https://chat.openai.com/g/g-NlzTxUEsP-geopolitic-explainer): Insightful, up-to-date geopolitical analysis and historical context.
 * [Bug Insider](https://chat.openai.com/g/g-ZuYsv3B7u-bug-insider): Analyzes bug bounty writeups and cybersecurity reports, providing structured insights and tips.
 * [Cyber Charli](https://chat.openai.com/g/g-lHnIOPevO-cyber-charli): Educating kids and parents about cybersecurity in a fun way!
