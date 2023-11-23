@@ -15,7 +15,7 @@ Please note, this repository is a community-driven project and may not list all 
 🌟 If you enjoy this content, consider following me: [@fr0gger_](https://x.com/fr0gger_) 
 
 ## Basic Guidelines
-There is some specific keywords that triggers some actions from GPTS, here are some of them to maximize the use:
+There is some specific keywords that trigger some actions from GPTS; here are some of them to maximize their use:
 * "Retrieve": used to retrieve some information available in the knowledge.
 * "Based on your knowledge": used to retrieve some information available in the knowledge.
 * "Generate": used to trigger code interpreter.
@@ -26,13 +26,14 @@ There is some specific keywords that triggers some actions from GPTS, here are s
 * [MagicUnprotect](https://chat.openai.com/g/g-U5ZnmObzh-magicunprotect): This GPT allows to interact with the Unprotect DB to retrieve knowledge about malware evasion techniques.
 * [GP(en)T(ester)](https://chat.openai.com/g/g-zQfyABDUJ-gp-en-t-ester): A cybersec assistant for pentesting guidance. 
 * [Threat Intel Bot](https://chat.openai.com/g/g-Vy4rIqiCF-threat-intel-bot): A specialized GPT for the latest APT threat intelligence.
-* [SourceCodeAnalysis](https://chat.openai.com/g/g-K5Drw2YS9-sourcecodeanalysis-gpt): Upload any project's source code (zip format), analysis all, answer any questions to get what you want.
+* [Vulnerability Bot] (https://chat.openai.com/g/g-1HDpSq4U0-phoenix-vulnerability-intelligence-gpt): A specialized GPT on vulnerability, secure code, ransomware attacks 
+* [SourceCodeAnalysis](https://chat.openai.com/g/g-K5Drw2YS9-sourcecodeanalysis-gpt): Upload any project's source code (zip format), analyse all, answer any questions to get what you want.
 * [Web Hacking Wizard](https://chat.openai.com/g/g-Op6Btk7ev-web-hacking-wizard): Engagingly clarifies web security topics with interactive questions.
 * [ChadGPT](https://chat.openai.com/g/g-hBDutiLmw-chadgpt): Has useful executibles in /mnt/data such as gdb, curl, strace. Make PRs at [ChadGPT git](https://github.com/chadbrewbaker/ChadGPT).
 * [CyberGPT](https://chat.openai.com/g/g-GGqU669bx-cybergpt): It provides the latest CVE details.
 * [Cyber Mentor](https://chat.openai.com/g/g-9PmeCxa4O-cyber-mentor): Cybersecurity mentor teaching from the basics to advanced.
 * [Cyber Security Career Mentor](https://chat.openai.com/g/g-b69I3zwKd-cyber-security-career-mentor): Your guide to starting and advancing in cybersecurity careers, offering beginner-friendly, practical advice.
-* [CyberGuard](https://chat.openai.com/g/g-Rqg4CFv6o-cyber-guard): Cybersecurity advisor for home and small businesses. Ask any question or let cyber guard.
+* [CyberGuard](https://chat.openai.com/g/g-Rqg4CFv6o-cyber-guard): Cybersecurity advisor for home and small businesses. Ask any questions or let cyber guard.
 * [CatEye](https://chat.openai.com/g/g-Oi3WJaHdu-cateye): AI Cybersecurity Best Practices Advisor. An agent for C-Level executives concerned about their startup's security. 
 * [SOC Copilot](https://chat.openai.com/g/g-qvSadylbt-soc-copilot): Cybersecurity expert with keyword-based guidance.
 * [HackTricksGPT](https://chat.openai.com/g/g-aaNx59p4q-hacktricksgpt): A knowledgeable cybersecurity professional.
@@ -49,14 +50,14 @@ There is some specific keywords that triggers some actions from GPTS, here are s
 * [h4ckGPT](https://chat.openai.com/g/g-1ehIO0APO-h4ckgpt): Your personal security tool… Happy h4cking!
 * [Email Security Expert](https://chat.openai.com/g/g-KX6GdA8lV-email-security-expert): Looking for email red flags so you don't have to!
 * [WP secure guide](https://chat.openai.com/g/g-CsvahsYRC-wp-secure-guide): Offers guidance on WordPress security best practices.
-* [PrivacyGPT](https://chat.openai.com/g/g-4XxP9d0EY-privacygpt): Your guide through privacy legislation.  GDPR, United States like CCPA & PIPEDA.
+* [PrivacyGPT](https://chat.openai.com/g/g-4XxP9d0EY-privacygpt): Your guide through privacy legislation.  GDPR, United States, like CCPA & PIPEDA.
 * [Privacy Guardian AI](https://chat.openai.com/g/g-gtV76JzWV-privacy-guardian-ai): Expert in guiding GPT creation with a focus on privacy and security.
 * [Message Header Analyzer](https://chat.openai.com/g/g-IHl1UiMr6-message-header-analyzer): Analyzes email headers for security insights, presenting data in a structured table view.
 * [zkGPT](https://chat.openai.com/g/g-UKY6elM2U-zkgpt): Explains and teaches zero-knowledge cryptography.
 * [Malware Rule Master](https://chat.openai.com/g/g-NGsw2zTeW-malware-rule-master): Expert in malware analysis and Yara rules, using web sources for specifics.
 * [Data Analysis](https://chat.openai.com/g/g-HMNcP6w7d-data-analysis): Drop in any files and I can help analyze and visualize your data.
 * [SpamGuard Tutor](https://chat.openai.com/g/g-jhc6RyFfY-spamguard-tutor): Spam detection expert and educator on spam prevention.
-* [Cloud-native threat modeling](https://sei.so/threat-modeling): Talk to an expert AI and find the cybersecurity threats that your company should be thinking about, and what to do about them.
+* [Cloud-native threat modeling](https://sei.so/threat-modeling): Talk to an expert AI and find the cybersecurity threats that your company should be thinking about and what to do about them.
 * [Threat Modelling](https://chat.openai.com/g/g-3XPyoWzn3-threat-modelling): A GPT expert in conducting thorough threat modelling for system design and review.
 * [Threat Modeling Companion](https://chat.openai.com/g/g-qQceHnV7T-threat-modeling-companion): I am a threat modeling expert that can help you identify threats for any system that you provide.
 * [Threat Model Companion](https://chat.openai.com/g/g-8AM8fQ9wU-threat-model-companion): Assists in identifying and mitigating security threats.
@@ -156,6 +157,6 @@ See also the list of [contributors](https://github.com/fr0gger/Awesome-GPT-Agent
 
 ## ChatGPT Plus Subscription Requirement for using _GPTS_
 
-As of `Sat Nov 11 13:02:12 UTC 2023` a **ChatGPT Plus subsription** is required for using GPT's as mentioned in [this article](https://www.theverge.com/2023/11/6/23948957/openai-chatgpt-gpt-custom-developer-platform), the [official documentation](https://openai.com/blog/introducing-gpts).
+As of `Sat Nov 11 13:02:12 UTC 2023` a **ChatGPT Plus subscription** is required for using GPT's as mentioned in [this article](https://www.theverge.com/2023/11/6/23948957/openai-chatgpt-gpt-custom-developer-platform), the [official documentation](https://openai.com/blog/introducing-gpts).
 
 ### Thanks!
