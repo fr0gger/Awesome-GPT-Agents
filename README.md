@@ -148,6 +148,9 @@ There is some specific keywords that trigger some actions from GPTS; here are so
 * [Cloud Guardian](https://chat.openai.com/g/g-VQihKqtCa-cloud-guardian)): Is your Cloud Security AI Assistant to help you do your cloud security job better and learn new cloud knowledge from our training data which is the transcript of interviews from [Cloud Security Podcast](https://www.cloudsecuritypodcast.tv/) [Github here for Training Data which you can contribute to as well.](https://github.com/hashishrajan/CloudGuardian)?
 * [DevSecOps Guru](https://chat.openai.com/g/g-qD3Gh3pxi-devsecops-guru): version of ChatGPT that has been customized to specialize in DevSecOps – the integration of development, security, and operations.
 * [3rd SoftSec Reviewer](https://chat.openai.com/g/g-nAldYnak2-3rd-softsec-reviewer): Perform 3rd party software security review.
+* [AI Executive Order and Policy Analyst](https://chat.openai.com/g/g-pOMhJfQX3-ai-executive-order-and-policy-analyst): Analyze the AI Executive Order, focusing on security, legal, technological, and ethical aspects.
+* [Secure Software Development Framework (SSDF) Agent](https://chat.openai.com/g/g-HMwdSfFQS-secure-software-development-framework-ssdf-agent): An Assistant to Understand the NIST Secure Software Development Framework (SSDF)
+
 
 ## Contributing <a href="https://github.com/fr0gger/Awesome-GPT-Agents/graphs/contributors"> ![GitHub](https://img.shields.io/github/contributors/fr0gger/Awesome-GPT-Agents) </a>
 
