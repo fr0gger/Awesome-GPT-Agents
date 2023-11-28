@@ -150,6 +150,7 @@ There is some specific keywords that trigger some actions from GPTS; here are so
 * [3rd SoftSec Reviewer](https://chat.openai.com/g/g-nAldYnak2-3rd-softsec-reviewer): Perform 3rd party software security review.
 * [AI Executive Order and Policy Analyst](https://chat.openai.com/g/g-pOMhJfQX3-ai-executive-order-and-policy-analyst): Analyze the AI Executive Order, focusing on security, legal, technological, and ethical aspects.
 * [Secure Software Development Framework (SSDF) Agent](https://chat.openai.com/g/g-HMwdSfFQS-secure-software-development-framework-ssdf-agent): An Assistant to Understand the NIST Secure Software Development Framework (SSDF)
+* [Web App and API Hacker](https://chat.openai.com/g/g-o4yXUlCqG-web-app-and-api-hacker): A Cybersecurity Agent expert in web app and API security, guided by OWASP standards.
 
 
 ## Contributing <a href="https://github.com/fr0gger/Awesome-GPT-Agents/graphs/contributors"> ![GitHub](https://img.shields.io/github/contributors/fr0gger/Awesome-GPT-Agents) </a>
