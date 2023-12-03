@@ -153,6 +153,7 @@ There is some specific keywords that trigger some actions from GPTS; here are so
 * [Web App and API Hacker](https://chat.openai.com/g/g-o4yXUlCqG-web-app-and-api-hacker): A Cybersecurity Agent expert in web app and API security, guided by OWASP standards.
 * [Tech Insight Guru](https://chat.openai.com/g/g-nX2hviRHu-tech-insight-guru): AI Assistance expert in Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), LLM, Natural Language Processing (NLP), Transformers, Quantum Technology, Cybersecurity, Cyberintelligence, Digital Forensic, Governance, Information Security, Risk Management & Compliance.
 * [Disinfo | FIMI Detective](https://chat.openai.com/g/g-v8vS1vhAY-disinfo-fimi-detective): AI Assistance expert in Disinformation, Foreign Information, Manipulation and Interference.
+* [EU CRA Assistant](https://chat.openai.com/g/g-A3LajAjOV-eu-cra-assistant): AI assistant expert in the EU Cyber Resilience Act, providing clear explanations and guidance.
 
 ## Contributing <a href="https://github.com/fr0gger/Awesome-GPT-Agents/graphs/contributors"> ![GitHub](https://img.shields.io/github/contributors/fr0gger/Awesome-GPT-Agents) </a>
 
