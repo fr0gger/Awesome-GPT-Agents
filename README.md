@@ -155,6 +155,7 @@ There is some specific keywords that trigger some actions from GPTS; here are so
 * [Disinfo | FIMI Detective](https://chat.openai.com/g/g-v8vS1vhAY-disinfo-fimi-detective): AI Assistance expert in Disinformation, Foreign Information, Manipulation and Interference.
 * [EU CRA Assistant](https://chat.openai.com/g/g-A3LajAjOV-eu-cra-assistant): AI assistant expert in the EU Cyber Resilience Act, providing clear explanations and guidance.
 * [CyberNewsGPT](https://chat.openai.com/g/g-6qXgmAdww-cybernews-gpt): CyberNews GPT is an assistant that provides the latest security news about cyber threats, hackings and breaches, malware, zero-day vulnerabilities, phishing, scams and so on.
+* [BotnetGPT](https://chat.openai.com/g/g-ve0zFhxNu-botnetgpt): BotnetGPT is designed to be an expert on botnets, their architectures, and their functioning to empower cyber defense research.
 
 ## Contributing <a href="https://github.com/fr0gger/Awesome-GPT-Agents/graphs/contributors"> ![GitHub](https://img.shields.io/github/contributors/fr0gger/Awesome-GPT-Agents) </a>
 
