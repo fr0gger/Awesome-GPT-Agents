@@ -26,7 +26,7 @@ There is some specific keywords that trigger some actions from GPTS; here are so
 * [MagicUnprotect](https://chat.openai.com/g/g-U5ZnmObzh-magicunprotect): This GPT allows to interact with the Unprotect DB to retrieve knowledge about malware evasion techniques.
 * [GP(en)T(ester)](https://chat.openai.com/g/g-zQfyABDUJ-gp-en-t-ester): A cybersec assistant for pentesting guidance. 
 * [Threat Intel Bot](https://chat.openai.com/g/g-Vy4rIqiCF-threat-intel-bot): A specialized GPT for the latest APT threat intelligence.
-* [Vulnerability Bot] (https://chat.openai.com/g/g-1HDpSq4U0-phoenix-vulnerability-intelligence-gpt): A specialized GPT on vulnerability, secure code, ransomware attacks 
+* [Vulnerability Bot](https://chat.openai.com/g/g-1HDpSq4U0-phoenix-vulnerability-intelligence-gpt): A specialized GPT on vulnerability, secure code, ransomware attacks 
 * [SourceCodeAnalysis](https://chat.openai.com/g/g-K5Drw2YS9-sourcecodeanalysis-gpt): Upload any project's source code (zip format), analyse all, answer any questions to get what you want.
 * [Web Hacking Wizard](https://chat.openai.com/g/g-Op6Btk7ev-web-hacking-wizard): Engagingly clarifies web security topics with interactive questions.
 * [ChadGPT](https://chat.openai.com/g/g-hBDutiLmw-chadgpt): Has useful executibles in /mnt/data such as gdb, curl, strace. Make PRs at [ChadGPT git](https://github.com/chadbrewbaker/ChadGPT).
