@@ -156,6 +156,7 @@ There is some specific keywords that trigger some actions from GPTS; here are so
 * [EU CRA Assistant](https://chat.openai.com/g/g-A3LajAjOV-eu-cra-assistant): AI assistant expert in the EU Cyber Resilience Act, providing clear explanations and guidance.
 * [CyberNewsGPT](https://chat.openai.com/g/g-6qXgmAdww-cybernews-gpt): CyberNews GPT is an assistant that provides the latest security news about cyber threats, hackings and breaches, malware, zero-day vulnerabilities, phishing, scams and so on.
 * [BotnetGPT](https://chat.openai.com/g/g-ve0zFhxNu-botnetgpt): BotnetGPT is designed to be an expert on botnets, their architectures, and their functioning to empower cyber defense research.
+* [Codefuse-chatbot](https://github.com/codefuse-ai/codefuse-chatbot): An intelligent assistant serving the entire software development lifecycle, powered by a Multi-Agent Framework, working with DevOps Toolkits, Code&Doc Repo RAG, etc.
 
 ## Contributing <a href="https://github.com/fr0gger/Awesome-GPT-Agents/graphs/contributors"> ![GitHub](https://img.shields.io/github/contributors/fr0gger/Awesome-GPT-Agents) </a>
 
