@@ -23,7 +23,6 @@ There is some specific keywords that trigger some actions from GPTS; here are so
 * "What does the knowledge source say about [specific query]?": To trigger the retrieval.
 
 ## Cybersecurity GPTs
-* [RedTeamGPT](https://chat.openai.com/g/g-j8ldT0QAO-redteamgpt): Advanced guide in red teaming, pentest, attack and cybersecurity.
 * [MagicUnprotect](https://chat.openai.com/g/g-U5ZnmObzh-magicunprotect): This GPT allows to interact with the Unprotect DB to retrieve knowledge about malware evasion techniques.
 * [GP(en)T(ester)](https://chat.openai.com/g/g-zQfyABDUJ-gp-en-t-ester): A cybersec assistant for pentesting guidance. 
 * [Threat Intel Bot](https://chat.openai.com/g/g-Vy4rIqiCF-threat-intel-bot): A specialized GPT for the latest APT threat intelligence.
@@ -158,6 +157,7 @@ There is some specific keywords that trigger some actions from GPTS; here are so
 * [CyberNewsGPT](https://chat.openai.com/g/g-6qXgmAdww-cybernews-gpt): CyberNews GPT is an assistant that provides the latest security news about cyber threats, hackings and breaches, malware, zero-day vulnerabilities, phishing, scams and so on.
 * [BotnetGPT](https://chat.openai.com/g/g-ve0zFhxNu-botnetgpt): BotnetGPT is designed to be an expert on botnets, their architectures, and their functioning to empower cyber defense research.
 * [FridaGPT](https://chat.openai.com/g/g-KwZVA8dTp-fridagpt): A Frida focussed GPT to help reverse engineers in writing Frida scripts.
+* [RedTeamGPT](https://chat.openai.com/g/g-j8ldT0QAO-redteamgpt): Advanced guide in red teaming, pentest, attack and cybersecurity.
 
 ## Contributing <a href="https://github.com/fr0gger/Awesome-GPT-Agents/graphs/contributors"> ![GitHub](https://img.shields.io/github/contributors/fr0gger/Awesome-GPT-Agents) </a>
 
