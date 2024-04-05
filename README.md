@@ -157,6 +157,9 @@ There is some specific keywords that trigger some actions from GPTS; here are so
 * [CyberNewsGPT](https://chat.openai.com/g/g-6qXgmAdww-cybernews-gpt): CyberNews GPT is an assistant that provides the latest security news about cyber threats, hackings and breaches, malware, zero-day vulnerabilities, phishing, scams and so on.
 * [BotnetGPT](https://chat.openai.com/g/g-ve0zFhxNu-botnetgpt): BotnetGPT is designed to be an expert on botnets, their architectures, and their functioning to empower cyber defense research.
 * [Codefuse-chatbot](https://github.com/codefuse-ai/codefuse-chatbot): An intelligent assistant serving the entire software development lifecycle, powered by a Multi-Agent Framework, working with DevOps Toolkits, Code&Doc Repo RAG, etc.
+* [FridaGPT](https://chat.openai.com/g/g-KwZVA8dTp-fridagpt): A Frida focussed GPT to help reverse engineers in writing Frida scripts.
+* [RedTeamGPT](https://chat.openai.com/g/g-j8ldT0QAO-redteamgpt): Advanced guide in red teaming, pentest, attack and cybersecurity.
+* [DFIR-GPT](https://chat.openai.com/g/g-11Pfha6Uq-dfir-gpt): A GPT Agent that tries to provide Digital Forensics and Incident Response (DFIR) technical advice and guidance. 
 
 ## Contributing <a href="https://github.com/fr0gger/Awesome-GPT-Agents/graphs/contributors"> ![GitHub](https://img.shields.io/github/contributors/fr0gger/Awesome-GPT-Agents) </a>
 
