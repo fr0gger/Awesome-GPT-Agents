@@ -37,6 +37,7 @@ There is some specific keywords that trigger some actions from GPTS; here are so
 * [CatEye](https://chat.openai.com/g/g-Oi3WJaHdu-cateye): AI Cybersecurity Best Practices Advisor. An agent for C-Level executives concerned about their startup's security. 
 * [SOC Copilot](https://chat.openai.com/g/g-qvSadylbt-soc-copilot): Cybersecurity expert with keyword-based guidance.
 * [HackTricksGPT](https://chat.openai.com/g/g-aaNx59p4q-hacktricksgpt): A knowledgeable cybersecurity professional.
+* [CavalierGPT by Hudson Rock](www.hudsonrock.com/cavaliergpt) - CavalierGPT is a powerful assistant built on the Cavalier API, designed to deliver detailed insights into domains, emails, usernames, IPs, keywords, and cybersecurity trends to uncover threats and enhance security.
 * [Cyber Security Tutor](https://chat.openai.com/g/g-0VZwWuTzR-cyber-security-tutor): Quality Cyber Security Advice, Tricks, & Tips
 * [MITREGPT](https://chat.openai.com/g/g-IZ6k3S4Zs-mitregpt): Feed me any input and I'll match it with the relevant MITRE ATT&CK techniques and tactics.
 * [ATT&CK Mate](https://chat.openai.com/g/g-fCIE7hCLx-att-ck-mate): Ask me anything about the ATT&CK Knowledge Base.
