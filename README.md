@@ -156,6 +156,7 @@ There is some specific keywords that trigger some actions from GPTS; here are so
 * [EU CRA Assistant](https://chat.openai.com/g/g-A3LajAjOV-eu-cra-assistant): AI assistant expert in the EU Cyber Resilience Act, providing clear explanations and guidance.
 * [CyberNewsGPT](https://chat.openai.com/g/g-6qXgmAdww-cybernews-gpt): CyberNews GPT is an assistant that provides the latest security news about cyber threats, hackings and breaches, malware, zero-day vulnerabilities, phishing, scams and so on.
 * [BotnetGPT](https://chat.openai.com/g/g-ve0zFhxNu-botnetgpt): BotnetGPT is designed to be an expert on botnets, their architectures, and their functioning to empower cyber defense research.
+* [Opik](https://github.com/comet-ml/opik): Open-source LLM observability and evaluation platform useful for red-team and prompt-injection testing workflows.
 * [Codefuse-chatbot](https://github.com/codefuse-ai/codefuse-chatbot): An intelligent assistant serving the entire software development lifecycle, powered by a Multi-Agent Framework, working with DevOps Toolkits, Code&Doc Repo RAG, etc.
 * [FridaGPT](https://chat.openai.com/g/g-KwZVA8dTp-fridagpt): A Frida focussed GPT to help reverse engineers in writing Frida scripts.
 * [RedTeamGPT](https://chat.openai.com/g/g-j8ldT0QAO-redteamgpt): Advanced guide in red teaming, pentest, attack and cybersecurity.
@@ -172,3 +173,4 @@ See also the list of [contributors](https://github.com/fr0gger/Awesome-GPT-Agent
 As of `Sat Nov 11 13:02:12 UTC 2023` a **ChatGPT Plus subscription** is required for using GPT's as mentioned in [this article](https://www.theverge.com/2023/11/6/23948957/openai-chatgpt-gpt-custom-developer-platform), the [official documentation](https://openai.com/blog/introducing-gpts).
 
 ### Thanks!
+
