@@ -159,7 +159,8 @@ There is some specific keywords that trigger some actions from GPTS; here are so
 * [Codefuse-chatbot](https://github.com/codefuse-ai/codefuse-chatbot): An intelligent assistant serving the entire software development lifecycle, powered by a Multi-Agent Framework, working with DevOps Toolkits, Code&Doc Repo RAG, etc.
 * [FridaGPT](https://chat.openai.com/g/g-KwZVA8dTp-fridagpt): A Frida focussed GPT to help reverse engineers in writing Frida scripts.
 * [RedTeamGPT](https://chat.openai.com/g/g-j8ldT0QAO-redteamgpt): Advanced guide in red teaming, pentest, attack and cybersecurity.
-* [DFIR-GPT](https://chat.openai.com/g/g-11Pfha6Uq-dfir-gpt): A GPT Agent that tries to provide Digital Forensics and Incident Response (DFIR) technical advice and guidance. 
+* [DFIR-GPT](https://chat.openai.com/g/g-11Pfha6Uq-dfir-gpt): A GPT Agent that tries to provide Digital Forensics and Incident Response (DFIR) technical advice and guidance.
+* [Cordum](https://github.com/cordum-io/cordum): Safety-first agent orchestration platform with a gRPC safety kernel for policy evaluation before job dispatch, output scanning for PII/secrets/injection detection, full audit trail for compliance, and multi-tenant credential isolation. Enables enterprise teams to run AI agents with enforceable security guardrails.
 
 ## Contributing <a href="https://github.com/fr0gger/Awesome-GPT-Agents/graphs/contributors"> ![GitHub](https://img.shields.io/github/contributors/fr0gger/Awesome-GPT-Agents) </a>
 
