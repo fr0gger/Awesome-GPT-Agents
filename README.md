@@ -172,3 +172,5 @@ See also the list of [contributors](https://github.com/fr0gger/Awesome-GPT-Agent
 As of `Sat Nov 11 13:02:12 UTC 2023` a **ChatGPT Plus subscription** is required for using GPT's as mentioned in [this article](https://www.theverge.com/2023/11/6/23948957/openai-chatgpt-gpt-custom-developer-platform), the [official documentation](https://openai.com/blog/introducing-gpts).
 
 ### Thanks!
+
+| [ASK — Agent Skills Kernel](https://github.com/srmbsrg/ask-kernel) | Versioned, composable skill library — portable capabilities any agent can invoke. MIT. | General |
