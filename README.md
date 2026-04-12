@@ -164,6 +164,7 @@ There is some specific keywords that trigger some actions from GPTS; here are so
 ## Contributing <a href="https://github.com/fr0gger/Awesome-GPT-Agents/graphs/contributors"> ![GitHub](https://img.shields.io/github/contributors/fr0gger/Awesome-GPT-Agents) </a>
 
 Want to add another cybersecurity agent. Create a pull request with the tool by following the list above. 
+research
 
 See also the list of [contributors](https://github.com/fr0gger/Awesome-GPT-Agents/graphs/contributors) who participate in this project.
 
