@@ -21,6 +21,7 @@ There is some specific keywords that trigger some actions from GPTS; here are so
 * "Generate": used to trigger code interpreter.
 * "Can you provide information on [specific topic] from the knowledge source?": To trigger the retrieval.
 * "What does the knowledge source say about [specific query]?": To trigger the retrieval.
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 ## Cybersecurity GPTs
 * [MagicUnprotect](https://chat.openai.com/g/g-U5ZnmObzh-magicunprotect): This GPT allows to interact with the Unprotect DB to retrieve knowledge about malware evasion techniques.
