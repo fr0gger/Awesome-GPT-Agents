@@ -15,6 +15,9 @@ Please note, this repository is a community-driven project and may not list all 
 🌟 If you enjoy this content, consider following me: [@fr0gger_](https://x.com/fr0gger_) 
 
 ## Basic Guidelines
+
+- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
+- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update.
 There is some specific keywords that trigger some actions from GPTS; here are some of them to maximize their use:
 * "Retrieve": used to retrieve some information available in the knowledge.
 * "Based on your knowledge": used to retrieve some information available in the knowledge.
