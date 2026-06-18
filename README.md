@@ -160,6 +160,7 @@ There is some specific keywords that trigger some actions from GPTS; here are so
 * [FridaGPT](https://chat.openai.com/g/g-KwZVA8dTp-fridagpt): A Frida focussed GPT to help reverse engineers in writing Frida scripts.
 * [RedTeamGPT](https://chat.openai.com/g/g-j8ldT0QAO-redteamgpt): Advanced guide in red teaming, pentest, attack and cybersecurity.
 * [DFIR-GPT](https://chat.openai.com/g/g-11Pfha6Uq-dfir-gpt): A GPT Agent that tries to provide Digital Forensics and Incident Response (DFIR) technical advice and guidance. 
+* [AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard): Open-source AI red teaming platform by Tencent Zhuque Lab. Scans Agent Skills for tool poisoning/data exfiltration, MCP servers for 9 attack classes, AI infrastructure (50+ components, 1200+ CVEs), and evaluates LLM jailbreaks. Black Hat Europe 2025 Arsenal. MIT license.
 
 ## Contributing <a href="https://github.com/fr0gger/Awesome-GPT-Agents/graphs/contributors"> ![GitHub](https://img.shields.io/github/contributors/fr0gger/Awesome-GPT-Agents) </a>
 
