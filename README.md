@@ -1,4 +1,7 @@
 # 😎 Awesome GPTs (Agents) for Cybersecurity [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+
+[![Listed on TakoAPI](https://img.shields.io/badge/Listed%20on-TakoAPI-7c3aed)](https://takoapi.com/agents/fr0gger-awesome-gpt-agents)
+
 <a href="https://github.com/fr0gger/Awesome-GPT-Agents">
     <img title="Star on GitHub" src="https://img.shields.io/github/stars/fr0gger/Awesome-GPT-Agents">
   </a>
