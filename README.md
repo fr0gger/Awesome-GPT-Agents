@@ -67,6 +67,7 @@ There is some specific keywords that trigger some actions from GPTS; here are so
 * [Cybersecurity Requirements Guide](https://chat.openai.com/g/g-OXhhZQzlV-cybersecurity-requirements-guide): I'll help you write cybersecurity requirements!
 * [Pentester Interviewer](https://chat.openai.com/g/g-f86Jhxi7H-pentest-interviewer): I'm your interviewer for penetration testing, challenging your cybersecurity skills.
 * [CyberCrime Tracker](https://chat.openai.com/g/g-qbW4XNs80-cybercrime-tracker): Best Tools, Techniques and Tactics for Tracking Down Cyber Criminals.
+- **[Context Kit](https://github.com/JDDavenport/context-kit)** — Personal Context Artifacts (PCAs): 4 Markdown templates + 5 AI skills for giving AI agents deep personal context. MIT, one-command install.
 * [IOC Analyzer](https://chat.openai.com/g/g-oa6XeJDGW-ioc-analyzer): Precise IoC search and summary with source URLs for verification.
 * [VulnPrioritizer](https://chat.openai.com/g/g-oihYpG3oa-vuln-prioritizer): I fetch EPSS scores for CVEs and provide bullet-pointed prioritization summaries.
 * [Prompt Injection Detector](https://chat.openai.com/g/g-9uwOyKoSJ-prompt-injection-detector): GPT used to classify prompts as valid inputs or injection attempts. Json output.
