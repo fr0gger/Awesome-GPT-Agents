@@ -19,6 +19,7 @@ There is some specific keywords that trigger some actions from GPTS; here are so
 * "Retrieve": used to retrieve some information available in the knowledge.
 * "Based on your knowledge": used to retrieve some information available in the knowledge.
 * "Generate": used to trigger code interpreter.
+* [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril): Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops.
 * "Can you provide information on [specific topic] from the knowledge source?": To trigger the retrieval.
 * "What does the knowledge source say about [specific query]?": To trigger the retrieval.
 
