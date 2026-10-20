@@ -24,7 +24,7 @@ Please note, this repository is a community-driven project and may not list all 
 | **Description** | Real-time AI agent monitoring dashboard — tracks Gateway status, sessions, token usage & trends |
 | **Stars** | ⭐ 1.3k+ |
 
-![Dashboard](https://raw.githubusercontent.com/flik2002/openclaw-monitor/main/Openclaw%20Monitor.jpg)
+![Dashboard](https://raw.githubusercontent.com/flik2002/openclaw-monitor/master/Openclaw%20Monitor.jpg)
 
 
 There is some specific keywords that trigger some actions from GPTS; here are some of them to maximize their use:
